@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://lucaskasper.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio Website"
 theme = "forty"
@@ -81,8 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    title = "Hi, my name is Lucas"
+    #subtitle 
     buttonText = "Get Started"
 
 
@@ -179,21 +179,21 @@ disqusShortname = ""
     phone = "+44 7922 953394"
 
     [[params.contact.address]]
-    title = "Flat 57 Farley Court"
-    street = "Allsop Place"
+    title = "London Business School"
+    street = "Regents Park, London NW1 4SA"
     city = "London"
     country = "UK"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "Lucas Kasper"
 
     # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
+    #[[params.footer.social]]
+      #icon = "fa-twitter"
+      #url= "https://www.twitter.com"
+      #label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
@@ -212,7 +212,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/lucaskasp"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
