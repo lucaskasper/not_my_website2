@@ -121,9 +121,6 @@ disqusShortname = ""
       subtitle = "I am also a programmer"
       image = "Projects/Coder.jpeg"
       url = "Projects/Coder
-
-
-    # You can make more showcases by copy and pasting the code above
     
         [[params.tiles.showcase]]
       title = "Contact Me"
