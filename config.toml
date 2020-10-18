@@ -2,7 +2,7 @@
 baseURL = "https://lucaskasper.netlify.app/"
 languageCode = "en-us"
 title = "LK"
-theme = "forty"
+theme = "Academic"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -54,7 +54,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Philosophy"
-      url = "#"
+      url = ""
 
     [[params.navigation.links]]
       name = "CV"
