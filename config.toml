@@ -120,8 +120,8 @@ disqusShortname = ""
       title = "R Work"
       subtitle = "I am also a programmer"
       image = "Projects/Coder.jpeg"
-      url = "Projects/Coder
-    
+      url = "Projects/Coder"
+      
         [[params.tiles.showcase]]
       title = "Contact Me"
       subtitle = "Email or LinkedIn"
