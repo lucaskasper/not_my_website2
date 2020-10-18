@@ -29,6 +29,7 @@ disqusShortname = ""
 
   # Just a custom image variable, please define it in .md files for content.
   image = "Projects/The-Persistence-of-Memory.jpg"
+  url = "Projects/The-Persistence-of-Memory"
 
   # 404 error customization
   [params.error404]
@@ -49,7 +50,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Investments"
-      url = "blogs"
+      url = ""
 
     [[params.navigation.links]]
       name = "Philosophy"
@@ -118,8 +119,8 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Contact Me"
       subtitle = "Email or LinkedIn"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+      image = "Projects/hi.jpg"
+      url = "Projects/hi"
 
     #[[params.tiles.showcase]]
      # title = "Etiam"
