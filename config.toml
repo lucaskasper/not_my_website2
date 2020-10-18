@@ -56,9 +56,9 @@ disqusShortname = ""
       name = "Philosophy"
       url = "#"
 
-    #[[params.navigation.links]]
-      #name = "#"
-      #url = "#"
+    [[params.navigation.links]]
+      name = "CV"
+      url = "Projects/KasperLucasCV"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -95,7 +95,7 @@ disqusShortname = ""
       [[params.tiles.showcase]]
       title = "CV"
       subtitle = "Work Experience"
-      image = "Projects/KasperLucasCV.pdf"
+      image = "Projects/KasperLucasCV.jpg"
       url = "Projects/KasperLucasCV"
   
     [[params.tiles.showcase]]
