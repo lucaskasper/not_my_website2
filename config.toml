@@ -38,15 +38,15 @@ disqusShortname = ""
 
   # Navigation Section
  # [params.navigation]
-   # title = "Lucas"
+    title = "Lucas"
     #subtitle = ""
-  #  menu = "Menu"
+   menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
-  #  [[params.navigation.links]]
-     # name = "Home"
-    #  url = "#"
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
 
    # [[params.navigation.links]]
      # name = "Investments"
