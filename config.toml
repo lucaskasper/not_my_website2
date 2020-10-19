@@ -2,7 +2,7 @@
 baseURL = "https://lucaskasper.netlify.app/"
 languageCode = "en-us"
 title = "LK"
-theme = "Academic"
+theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -37,26 +37,26 @@ disqusShortname = ""
     text = "Please visit [this page](/)"
 
   # Navigation Section
-  [params.navigation]
+ # [params.navigation]
     title = "Lucas"
     #subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
-    [[params.navigation.links]]
+  #  [[params.navigation.links]]
       name = "Home"
       url = "#"
 
-    [[params.navigation.links]]
+   # [[params.navigation.links]]
       name = "Investments"
       url = ""
 
-    [[params.navigation.links]]
+    #[[params.navigation.links]]
       name = "Philosophy"
       url = ""
 
-    [[params.navigation.links]]
+  #  [[params.navigation.links]]
       name = "CV"
       url = "Projects/KasperLucasCV"
 
