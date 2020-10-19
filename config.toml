@@ -38,27 +38,27 @@ disqusShortname = ""
 
   # Navigation Section
  # [params.navigation]
-    title = "Lucas"
+   # title = "Lucas"
     #subtitle = ""
-    menu = "Menu"
+  #  menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
   #  [[params.navigation.links]]
-      name = "Home"
-      url = "#"
+     # name = "Home"
+    #  url = "#"
 
    # [[params.navigation.links]]
-      name = "Investments"
-      url = ""
+     # name = "Investments"
+    #  url = ""
 
     #[[params.navigation.links]]
-      name = "Philosophy"
-      url = ""
+   #   name = "Philosophy"
+    #  url = ""
 
   #  [[params.navigation.links]]
-      name = "CV"
-      url = "Projects/KasperLucasCV"
+   #   name = "CV"
+  #    url = "Projects/KasperLucasCV"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
