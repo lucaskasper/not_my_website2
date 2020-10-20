@@ -120,7 +120,7 @@ disqusShortname = ""
       title = "R Work"
       subtitle = "I am also a programmer"
       image = "Projects/Coder.jpeg"
-      url = "Projects/Coder"
+      url = "content/blogs/blog1.Rmd"
       
         [[params.tiles.showcase]]
       title = "Contact Me"
