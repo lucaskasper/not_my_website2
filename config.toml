@@ -52,13 +52,13 @@ disqusShortname = ""
      # name = "Investments"
     #  url = ""
 
-    #[[params.navigation.links]]
-   #   name = "Philosophy"
-    #  url = ""
+    [[params.navigation.links]]
+     name = "R Work"
+      url = "blogs/Tour-de-France-Visualized.html"
 
-  #  [[params.navigation.links]]
-   #   name = "CV"
-  #    url = "Projects/KasperLucasCV"
+   [[params.navigation.links]]
+     name = "CV"
+     url = "blogs"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -96,37 +96,37 @@ disqusShortname = ""
       title = "CV"
       subtitle = "Work Experience"
       image = "Projects/KasperLucasCV.jpg"
-      url = "Projects/KasperLucasCV"
+      url = "blog1"
   
     [[params.tiles.showcase]]
       title = "Investments"
       subtitle = "Generating Alpha"
       image = "Projects/debt-cycles-1024x579.png"
-      url = "Project/debt-cycles-1024x579"
+      url = "blogs"
 
     [[params.tiles.showcase]]
       title = "Awards"
       subtitle = "From Sports to Pitches"
       image = "Projects/Alexandria-Egypt-reward-competitions-Bridesmaids-Competition-participation-September-12-2014.jpg"
-      url = "Projects/Alexandria-Egypt-reward-competitions-Bridesmaids-Competition-participation-September-12-2014"
+      url = "blogs"
 
     [[params.tiles.showcase]]
       title = "Philosophy"
       subtitle = "How I Think"
       image = "Projects/Old-book-470.jpg"
-      url = "Projects/Old-book-470"
+      url = "blogs"
 
     [[params.tiles.showcase]]
       title = "R Work"
       subtitle = "I am also a programmer"
       image = "Projects/Coder.jpeg"
-      url = "content/blogs/blog1.Rmd"
+      url = "blog1"
       
         [[params.tiles.showcase]]
       title = "Contact Me"
       subtitle = "Email or LinkedIn"
       image = "Projects/hi.jpg"
-      url = "Projects/hi"
+      url = "blogs"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
