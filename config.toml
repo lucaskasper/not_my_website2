@@ -36,9 +36,9 @@ disqusShortname = ""
     heading = "Page couldn't be found"
     text = "Please visit [this page](/)"
 
-  # Navigation Section
- # [params.navigation]
-    title = "Lucas"
+   Navigation Section
+ [params.navigation]
+    title = "Refresh"
     #subtitle = ""
    menu = "Menu"
     # Optional logo as brand stored in img/
